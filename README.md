@@ -3,7 +3,8 @@
 
 ### Cardboard structure
 First I CADed a simple hat structure in Fusion 360 ([mushroom.stl](mushroom.stl)). I then put it through Slicer for Fusion 360 with a radial slice to get the cut layout ([mushroom_slice.pdf](mushroom_slice.pdf)), which we could then laser cut from cardboard. 
-![](img/img_beforeslice.png | width=100) 
+<img src="img/img_beforeslice.png"  width="50%"> <img src="img/img_afterslice.png"  width="40%">
+
 This let us have a sturdy, lightweight cardboard hat.
 
 ### LEDs
