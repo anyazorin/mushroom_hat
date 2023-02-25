@@ -1,5 +1,5 @@
 # Mushroom Hat
-### This is a fun and simply project I did with friends, where we made cardboard mushroom hats with sound reactive LEDs.
+### This is a fun and simple project I did with friends, where we made cardboard mushroom hats with sound reactive LEDs.
 
 ### Cardboard structure
 First I CADed a simple hat structure in Fusion 360 ([mushroom.stl](mushroom.stl)). I then put it through Slicer for Fusion 360 with a radial slice to get the cut layout ([mushroom_slice.pdf](mushroom_slice.pdf)), which we could then laser cut from cardboard. 
